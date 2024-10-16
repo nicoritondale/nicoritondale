@@ -111,8 +111,6 @@ An interactive web application to visualize and manipulate Binary Search Trees, 
   - Database integration for saving and retrieving trees
   - Responsive UI with animation speed control
 
-*(Add more projects as needed, with descriptions and links.)*
-
 ---
 
 ## 💼 Experience
@@ -183,12 +181,3 @@ I'm currently open to new opportunities where I can contribute, learn, and grow.
 -->
 
 ---
-
-By integrating your skills with the language and tool logos, along with your experience and projects, this `README` presents a comprehensive and visually appealing overview of your professional profile.
-
-**Tips to Enhance Your Profile:**
-
-- **Add a Banner Image:** You can create a custom banner using tools like [Canva](https://www.canva.com/) and add it at the top of your `README` with the following code:
-
-  ```markdown
-  ![Banner Image](https://yourimageurl.com/banner.png)
