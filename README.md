@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I am **Nicolas Ritondale**, a passionate **Full Stack Developer** based in Fort Lauderdale, Florida. I'm currently seeking new opportunities to apply my skills and grow in the tech industry.
+I am **Nicolas Ritondale**, a passionate **Developer** based in Fort Lauderdale / Miami, Florida. I'm currently seeking new opportunities to apply my skills and grow in the tech industry.
 
 ![Coding GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
