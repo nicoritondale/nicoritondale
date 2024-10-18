@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-Hi, my name is **Nicolas Ritondale**. I'm a developer, and I personally choose to focus on SAP development. I personally enjoy working in a business environment, but also at the same time like to work as a developer. I always have a passion with technology, so that's why I choose SAP as a main focus, where you can combine the ERP management software company and software at the same time. That's why I've been working with multiple internships related with SAP and work with C# and also C++, and working on database at the same time with SQL and HANA.
+Hi, my name is **Nicolas Ritondale**. I'm a developer, and I personally choose to focus on SAP development. I personally enjoy working in a business environment, but also at the same time like to work as a developer. I always have a passion with technology, so that's why I choose SAP as a main focus, where you can combine the ERP management software company and development at the same time. That's why I've been working with multiple internships related with SAP and work with C# and also C++, and working on database at the same time with SQL and HANA.
 
 ![Coding GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
