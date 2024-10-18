@@ -1,8 +1,56 @@
 # 👋 Hi there!
 
-I am **Nicolas Ritondale**, a passionate **Developer** based in Fort Lauderdale / Miami, Florida. I'm currently seeking new opportunities to apply my skills and grow in the tech industry.
+Hi, my name is **Nicolas Ritondale**. I'm a developer, and I personally choose to focus on SAP development. I personally enjoy working in a business environment, but also at the same time like to work as a developer. I always have a passion with technology, so that's why I choose SAP as a main focus, where you can combine the ERP management software company and software at the same time. That's why I've been working with multiple internships related with SAP and work with C# and also C++, and working on database at the same time with SQL and HANA.
 
 ![Coding GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+
+---
+
+## 💼 Experience
+
+### **SAP Business One Junior Developer / Support Consultant** at **B1-TEAM**
+*August 2024 – Present | Miami, Florida, USA*
+
+- Developed custom add-ons to manage tax withholding requirements in Puerto Rico.
+- Automated tax withholding calculations based on Puerto Rican regulations.
+- Designed and integrated custom UI components using SAP SDK and UI API.
+- Customized SAP databases with new fields and tables.
+- Collaborated with the development team using GitHub and Visual Studio Code.
+- Provided support and troubleshooting for users.
+
+### **Developer / Video Editor** at **Nova Southeastern University**
+*January 2022 – January 2023 | Fort Lauderdale, Florida, USA*
+
+- Managed a database of new students.
+- Edited videos for the 'SUTV' sector of the university.
+
+### **Internship** at **Xponencia**
+*October 2020 – December 2020 | Córdoba, Argentina*
+
+- Assisted senior developers with Python, JavaScript, HTML, SQL, and Oracle.
+- Helped install AvaTax integration with SAP B1 and SAP ByDesign.
+
+### **Support Specialist** at **Argentis Consulting | SAP Partner**
+*November 2019 – January 2020 | Miami, Florida, USA*
+
+- Provided support for SAP Business One installations and Avatax connector.
+- IT responsibilities for 25 employees, including hardware purchase, networking setup, OS installations, firewall setup, and antivirus enforcement.
+
+---
+
+## 💻 Projects
+
+### 🔹 [Binary Search Tree Visualization](https://github.com/nicoritondale/bst-visualization)
+
+While learning data structure, I noticed that all the webpages where they have binary search trees, they're really bad UI, really bad implementation of how their animation should be and how they're shown. That's why I developed this website where you can show in a more modern way of a binary search tree where you can save your own binary search tree in a database and test it later. Here's my implementation with JavaScript, Node.js, Express.js, and MongoDB.
+
+- **Technologies:** JavaScript, Node.js, Express.js, MongoDB
+- **Features:**
+  - Real-time visualization of BST operations
+  - Node insertion and deletion with visual feedback
+  - Tree traversal animations (in-order, pre-order, post-order)
+  - Database integration for saving and retrieving trees
+  - Responsive UI with animation speed control
 
 ---
 
@@ -19,7 +67,7 @@ I am **Nicolas Ritondale**, a passionate **Developer** based in Fort Lauderdale 
 ---
 
 ## 🛠️ Skills
-
+These are the languages I've been working with the last four years with a computer science degree and three internships. But I can practice more and learn fast with the knowledge that I've had with my degree.
 ### Languages and Tools:
 
 <p align="left">
@@ -94,54 +142,6 @@ I am **Nicolas Ritondale**, a passionate **Developer** based in Fort Lauderdale 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoritondale&layout=compact&theme=radical" alt="Top languages" />
 </p>
-
----
-
-## 💻 Projects
-
-### 🔹 [Binary Search Tree Visualization](https://github.com/nicoritondale/bst-visualization)
-
-An interactive web application to visualize and manipulate Binary Search Trees, enhancing understanding of data structures and algorithms.
-
-- **Technologies:** JavaScript, Node.js, Express.js, MongoDB
-- **Features:**
-  - Real-time visualization of BST operations
-  - Node insertion and deletion with visual feedback
-  - Tree traversal animations (in-order, pre-order, post-order)
-  - Database integration for saving and retrieving trees
-  - Responsive UI with animation speed control
-
----
-
-## 💼 Experience
-
-### **SAP Business One Junior Developer / Support Consultant** at **B1-TEAM**
-*August 2024 – Present | Miami, Florida, USA*
-
-- Developed custom add-ons to manage tax withholding requirements in Puerto Rico.
-- Automated tax withholding calculations based on Puerto Rican regulations.
-- Designed and integrated custom UI components using SAP SDK and UI API.
-- Customized SAP databases with new fields and tables.
-- Collaborated with the development team using GitHub and Visual Studio Code.
-- Provided support and troubleshooting for users.
-
-### **Developer / Video Editor** at **Nova Southeastern University**
-*January 2022 – January 2023 | Fort Lauderdale, Florida, USA*
-
-- Managed a database of new students.
-- Edited videos for the 'SUTV' sector of the university.
-
-### **Internship** at **Xponencia**
-*October 2020 – December 2020 | Córdoba, Argentina*
-
-- Assisted senior developers with Python, JavaScript, HTML, SQL, and Oracle.
-- Helped install AvaTax integration with SAP B1 and SAP ByDesign.
-
-### **Support Specialist** at **Argentis Consulting | SAP Partner**
-*November 2019 – January 2020 | Miami, Florida, USA*
-
-- Provided support for SAP Business One installations and Avatax connector.
-- IT responsibilities for 25 employees, including hardware purchase, networking setup, OS installations, firewall setup, and antivirus enforcement.
 
 ---
 
